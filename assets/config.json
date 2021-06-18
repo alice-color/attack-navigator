@@ -22,7 +22,7 @@
             "domains": [
                 {   
                     "name": "Enterprise", 
-                    "data": ["https://raw.githubusercontent.com/mitre/cti/ATT%26CK-v8.2/enterprise-attack/enterprise-attack.json"]
+                    "data": ["https://raw.githubusercontent.com/alice-color/attack-navigator/master/nav-app/src/DB/enterprise-attack-v8.json"]
                 },
                 {   
                     "name": "Mobile", 
